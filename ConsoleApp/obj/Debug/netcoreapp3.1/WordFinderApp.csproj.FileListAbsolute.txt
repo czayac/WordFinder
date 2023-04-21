@@ -1,0 +1,14 @@
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\bin\Debug\netcoreapp3.1\WordFinderApp.exe
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\bin\Debug\netcoreapp3.1\WordFinderApp.deps.json
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\bin\Debug\netcoreapp3.1\WordFinderApp.runtimeconfig.json
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\bin\Debug\netcoreapp3.1\WordFinderApp.runtimeconfig.dev.json
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\bin\Debug\netcoreapp3.1\WordFinderApp.dll
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\bin\Debug\netcoreapp3.1\WordFinderApp.pdb
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\obj\Debug\netcoreapp3.1\WordFinderApp.csproj.AssemblyReference.cache
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\obj\Debug\netcoreapp3.1\WordFinderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\obj\Debug\netcoreapp3.1\WordFinderApp.AssemblyInfoInputs.cache
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\obj\Debug\netcoreapp3.1\WordFinderApp.AssemblyInfo.cs
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\obj\Debug\netcoreapp3.1\WordFinderApp.csproj.CoreCompileInputs.cache
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\obj\Debug\netcoreapp3.1\WordFinderApp.dll
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\obj\Debug\netcoreapp3.1\WordFinderApp.pdb
+C:\Users\fprado\source\repos\ConsoleApp1\ConsoleApp\obj\Debug\netcoreapp3.1\WordFinderApp.genruntimeconfig.cache
