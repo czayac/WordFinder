@@ -44,8 +44,8 @@ namespace WordFinderApp
                 if ((findInMatriz + findInMatrizPivot) > 0)
                 listResult.Add(word, findInMatriz + findInMatrizPivot);
             }
-
-            var prueba = listResult.OrderByDescending(x => x.Value);
+           // Codigo para ver cantidad de palabras encontradas
+           // var orderListDetail = listResult.OrderByDescending(x => x.Value);
 
             var orderList = listResult.OrderByDescending(x => x.Value).Select(x => x.Key).ToList();
 
