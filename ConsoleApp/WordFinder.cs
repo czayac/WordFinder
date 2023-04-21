@@ -40,6 +40,8 @@ namespace WordFinderApp
             {
                 int findInMatriz = new Regex(Regex.Escape(word)).Matches(listaMatrizString).Count;
                 int findInMatrizPivot = new Regex(Regex.Escape(word)).Matches(listaMatrizPivotString).Count;
+
+                if ((findInMatriz + findInMatrizPivot) > 0)
                 listResult.Add(word, findInMatriz + findInMatrizPivot);
             }
 
