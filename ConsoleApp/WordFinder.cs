@@ -47,7 +47,7 @@ namespace WordFinderApp
            // Codigo para ver cantidad de palabras encontradas
            // var orderListDetail = listResult.OrderByDescending(x => x.Value);
 
-            var orderList = listResult.OrderByDescending(x => x.Value).Select(x => x.Key).ToList();
+            var orderList = listResult.OrderByDescending(x => x.Value).Select(x => x.Key).Take(10).ToList();
 
             return orderList;
 
